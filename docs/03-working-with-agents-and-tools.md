@@ -111,7 +111,7 @@ public class EmailMeAPoemResource {
 
     @GET
     public String emailMeAPoem() {
-        return service.writeAPoem("Winnie the Pooh", 4);
+        return service.writeAPoem("Santa Clause", 4);
     }
 
 }

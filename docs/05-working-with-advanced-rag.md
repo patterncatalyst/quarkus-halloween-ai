@@ -117,7 +117,7 @@ We now need to create an _ingestor_.  The role of the _ingestor_ is to ingest, r
 
 ![Ingestor](../images/15-ingestion.png)
 
-Create a class called **RagINgestion** with the following:
+Create a class called **RagIngestion** with the following:
 
 ````Java
 package com.devcorner.developers;
